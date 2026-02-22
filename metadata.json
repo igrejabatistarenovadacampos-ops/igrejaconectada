@@ -1,0 +1,9 @@
+{
+  "name": "Igreja Conectada",
+  "description": "Aplicativo futurista e minimalista para gestão e interação da comunidade cristã.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
